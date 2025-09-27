@@ -1,3 +1,4 @@
 Hei GitHub!
 Tämä on uusi tiedosto.
 Tämä muutos tehtiin koneella!
+Tämäpä muutos tehtiin selaimessa :P
